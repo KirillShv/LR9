@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Queue.cpp
+  Создание кода...
+C:\Users\Kirill\Desktop\лабы\l9\l9\Queue.cpp(22): warning C4715: Queue::operator=: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\Kirill\Desktop\лабы\l9\l9\x64\Debug\Project1.exe
